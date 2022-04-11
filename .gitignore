@@ -1,0 +1,8 @@
+# idea config
+.idea/
+
+# download resource
+icons/
+
+# apple
+.DS_Store
